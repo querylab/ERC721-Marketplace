@@ -1,4 +1,4 @@
-## NFT-Marketplace
+## NFT-Marketplace 🛒💎🎴
 
 This is a Simpy Tokens (NFTs) Market Place for a Sepolia Test Network  with scripts and deploys. Built with Solidity using Hardhat.
 
