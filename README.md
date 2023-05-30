@@ -1,6 +1,6 @@
 ## NFT-Marketplace 🛒💎🎴
 
-This is a Simply Tokens (NFTs) Market Place for a Sepolia Test Network  with scripts and deploys. Built with Solidity using Hardhat.
+This is a Simply (NFTs) MarketPlace for a Sepolia Test Network  with scripts and deploys. Built with Solidity using Hardhat.
 
 ### Setting Up
 
@@ -12,7 +12,7 @@ This is a Simply Tokens (NFTs) Market Place for a Sepolia Test Network  with scr
 $ cd ERC721-Marketplace
 $ npm install --save-dev hardhat
 $ npx hardhat
-$ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts
+$ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-toolbox
 ```
 ### 3. Change variables in hardhat.config.js and Marketplace.sol
 
